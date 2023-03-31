@@ -1,0 +1,5 @@
+action:
+    name: YOUR_NAME_HERE
+    version: 0.0.0
+    desc: This is a template for your own actions.
+    dependancies: [exampleOne, exampleTwo]

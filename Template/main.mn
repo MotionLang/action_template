@@ -1,1 +1,7 @@
+## Your code here
 
+func main() {
+    print("Hello world!")
+}
+
+main();
