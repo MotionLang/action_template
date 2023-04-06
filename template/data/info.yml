@@ -1,0 +1,13 @@
+action:
+    name: YOUR_NAME_HERE
+    version: 0.1.0
+    description: This is a template for your own actions.
+    id: 0000000
+
+dependancies: {
+    dependancyOne: {
+        name:
+        id:
+    } 
+}
+    
